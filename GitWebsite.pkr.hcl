@@ -34,7 +34,7 @@ build {
   sources = ["source.amazon-ebs.Git-Website"]
   
   provisioner "shell" {
-    script = "/var/Continous_Deployment_Project/Git-Script.sh"
+    script = "/var/Jenkins-Continuous-Deployment/Git-Script.sh"
   }
 
   post-processor "shell-local" {
