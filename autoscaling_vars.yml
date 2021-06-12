@@ -1,0 +1,7 @@
+---
+region: "Desired region"                                             #Eg: ap-south-1
+access_key: "your access key"
+secret_key: "your secret key"      
+key_name: "Keyname"                                                  #Copy this key pem file to this directory
+health_time: 25                                
+git_url: "Git website/Application URL"

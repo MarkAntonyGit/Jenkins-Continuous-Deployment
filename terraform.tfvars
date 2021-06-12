@@ -1,0 +1,12 @@
+region      = "Desired region"
+access_key  = "Your Access key"
+secret_key  = "Your Secret key"
+project     = "Desired Project name"   
+acm         = "arn of acm certifiacte"
+ec2-type    = "ec2 type"
+asg_count   = number of instances needs to be create with asg  
+domain_name = "domain name" 
+vpc_id      = "vpc id"
+subnet1     = "public subnet1 id"
+subnet2     = "public subnet2 id"
+key_name    = "name of key added in this folder" 
